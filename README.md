@@ -1,2 +1,28 @@
-# Weather-forecast
-A simple and responsive weather forecast website built with HTML, CSS, and JavaScript. It fetches real-time data from an API to display temperature, humidity, wind speed, and conditions with dynamic icons. Users can search any city and view accurate weather updates
+# 🌤️ Weather Forecast Website
+
+A simple and responsive **Weather Forecast Website** built using **HTML, CSS, and JavaScript**.  
+It allows users to search for a city and get real-time weather updates including **temperature, condition, humidity, wind speed, and more**.
+
+---
+
+## 🚀 Features
+- 🌍 Search weather by city name
+- 🌡️ Real-time temperature & weather details
+- 💨 Wind speed and humidity information
+- 🎨 Clean and responsive UI
+- 📱 Works across desktop and mobile devices
+- ☁️ Dynamic weather icons for better visuals
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend**: HTML, CSS, JavaScript  
+- **API**: OpenWeatherMap API 
+
+---
+
+## ⚙️ Installation & Setup
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Himanshuazad03/Weather-forecast.git
+
