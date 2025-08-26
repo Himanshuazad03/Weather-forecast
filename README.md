@@ -17,7 +17,7 @@ It allows users to search for a city and get real-time weather updates including
 
 ## 🛠️ Tech Stack
 - **Frontend**: HTML, CSS, JavaScript  
-- **API**: OpenWeatherMap API 
+- **API**: [OpenWeatherMap](https://openweathermap.org/)
 
 ---
 
